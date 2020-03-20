@@ -32,7 +32,6 @@ nav {
     font-size: 13pt;
     text-align: justify;
     width: 315px;
-    height: 126px;
 }
 .text2{
     margin: 5px auto 0px;
@@ -42,7 +41,6 @@ nav {
     background-color: yellow;
     font-size: 13pt;
     width: 315px;
-    height: 126px;
     text-align: justify;
 }
 .text3{
@@ -53,7 +51,6 @@ nav {
     background-color: forestgreen;
     font-size: 13pt;
     width: 315px;
-    height: 126px;
     text-align: justify;
 }
 .text4{
@@ -64,7 +61,6 @@ nav {
     background-color: pink;
     font-size: 13pt;
     width: 315px;
-    height: 126px;
     text-align: justify;
 }
 .text5{
@@ -75,7 +71,6 @@ nav {
     background-color: rgb(69, 80, 230);
     font-size: 13pt;
     width: 315px;
-    height: 126px;
     text-align: justify;
 }
 .button:hover{
